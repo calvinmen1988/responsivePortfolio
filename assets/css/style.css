@@ -284,6 +284,7 @@ input[type=submit] {
     {
       width: 200px;
     }
+
     #connect1
     {
       width: 600px;
@@ -292,13 +293,4 @@ input[type=submit] {
       float: right;
       margin-top: 15px;
       margin-right: 30px;
-    }
-    .connectWord
-    {
-      width: 500px;
-    }
-    .fotos
-    {
-      margin-left: 180px;
-    }
     }
